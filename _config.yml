@@ -1,0 +1,14 @@
+layout_spectrum: 0.08728208811953664
+typography_spectrum: 0.8973335686605424
+color:
+  brandStrength: 0.7686736134346575
+  lightness: 0.21368665108457208
+  saturation: 0.9354820440057665
+  rhythmicContrast: 0.5933614692185074
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: sterile insight
